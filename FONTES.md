@@ -38,7 +38,7 @@ conta. Se nenhum site foi consultado, escreva: **"Nenhum site consultado."**)*
 
 | # | Link público da conversa | Onde o conteúdo foi usado |
 | --- | --- | --- |
-| https://share.gemini.google/jCasuF9XgRIX | Utilizado para estruturar em markdown os 5 arquivos|
+| |  https://share.gemini.google/jCasuF9XgRIX | Utilizado para estruturar em markdown os 5 arquivos
 
 *(Se nenhuma IA foi utilizada, escreva: **"Nenhuma IA utilizada."**)*
 
