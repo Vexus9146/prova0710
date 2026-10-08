@@ -17,6 +17,6 @@
   - Aplicação do teto diário (`5000`).
 - Implementar `POST /bilhetes/{id}/encerramento` registrando a `saida`, `minutos` e `valor_centavos`.
 
-## Tarefa 4: Relatório Diário e Validações de Erros (UC4 e Middleware de Exceção)
+## Tarefa 4: Relatório Diário e Validações  de Erros (UC4 e Middleware de Exceção)
 - Implementar `GET /relatorios/diario?data=AAAA-MM-DD` com o cálculo consolidado de faturamento e arredondamento do `tempo_medio_minutos` (**0,5 para cima**).
 - Mapear e padronizar os erros HTTP (422, 404, 409) para que todos retornem no formato exato `{"erro": "codigo_do_erro"}`.
